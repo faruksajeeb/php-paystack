@@ -1,6 +1,6 @@
 <?php
 // Paystack secret key
-$paystackSecretKey = 'sk_test_8ce098c48adc6bcffa0554275d49b179baf38953';
+$paystackSecretKey = '';
 
 // Collect form data
 $email = $_POST['email']; // Customer's email
